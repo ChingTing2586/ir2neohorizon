@@ -1,4 +1,4 @@
-![](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad4.png)
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad4.png)
 
 ## Psi 图形化编程模组  超简易傻瓜式指南
 
