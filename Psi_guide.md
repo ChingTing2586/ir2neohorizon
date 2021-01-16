@@ -226,7 +226,7 @@
 
 更多实用性术士代码可点击查看以下链接：**[943](https://tartaricacid.github.io/2017/02/04/PsiSpotlightFile/)**
 
-by: ChingTing
+by: ChingTing <br/>
 2021/01/15
 
 ![](https://i.loli.net/2019/04/04/5ca5b1d0a422b.jpg)
