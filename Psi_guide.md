@@ -12,21 +12,23 @@
 
 #### 2【相关链接】
 
-下载：https://www.curseforge.com/minecraft/mc-mods/psi
-官网：http://psi.vazkii.us/index.php
-百科：http://www.mcmod.cn/class/470.html
-视频教程：https://space.bilibili.com/4435845/video?keyword=psi
+下载：https://www.curseforge.com/minecraft/mc-mods/psi <br/>
+官网：http://psi.vazkii.us/index.php <br/>
+百科：http://www.mcmod.cn/class/470.html <br/>
+视频教程：https://space.bilibili.com/4435845/video?keyword=psi <br/>
 
 #### 3【CAD装配器界面介绍】
-![](https://i.loli.net/2021/01/16/koceNTgHwGjv3qd.png)
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad0.png)
 
 #### 4【术士编写台界面介绍】
-![](https://i.loli.net/2021/01/16/f8EoCYlTB7JNwpi.jpg)
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad5.png)
+
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad2.png)
 
 #### 5【术士子弹安装与使用】
-![](https://i.loli.net/2021/01/16/qIDxFPAtY5pwHWE.png)
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad1.png)
 
-![](https://i.loli.net/2021/01/16/BEotsi7gbeTZMvN.png)
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad3.png)
 
 #### 6【教程各章节解锁代码】
 
