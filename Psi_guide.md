@@ -4,7 +4,8 @@
 
 #### 1【简要说明】
 
-//部分网络环境下本分配图无法显示请使用魔法方式查看！//<br/>
+//部分网络环境下本文配图无法显示请使用魔法方式查看！//<br/>
+
 本文仅作为Psi模组教程解锁参考所用，具体请以实际使用为准，部分术士仅作为解锁章节，术士辅助演算机实际执行无任何效果，如一个存档中的教程已全解，新存档可选择是否继承解锁内容。
 默认按【C键】可打开教程，教程逐级解锁，研究该章节并执行该章节相应术士模块后可获得研究点数解锁下一节内容。
 术士相关代码可使用术士编写台导入导出功能进行快速解锁，更多样化的应用玩家可自行尝试研究，本文仅供如博主之类“**计算机代码脑部功能性障碍症**”患者使用。
@@ -22,7 +23,7 @@
 ![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad0.png)
 
 #### 4【术士编写台界面介绍】
-![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad5.png)
+![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad5.jpg)
 
 ![Image text](https://github.com/ChingTing2586/ir2neohorizon/blob/main/img/cad2.png)
 
